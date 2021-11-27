@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin-left: 40%;
+    justify-content: center;
+}
+table td {
+    border: 1px solid grey;
+    width: 100px;
+    height: 100px;
+    font-size: 40px;
+}
